@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<meta http-equiv="expires" content="0">
+  <!body background="Background.tiff"!>
+  <head>
+        
+                <meta name="viewport" content="width=device-width, initial-scale=1" />
+                <link rel="stylesheet" type="text/css" media="screen and (max-width: 360px)" href="portrait.css">
+                <script>
+              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+            
+              ga('create', 'UA-92246000-1', 'auto');
+              ga('send', 'pageview');
+            
+            </script>
+                    <!-- Google Tag Manager -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-WZXSQKC');</script>
+            <!-- End Google Tag Manager -->
+                <meta name="viewport" content="width=device-width, initial-scale=1" /> 
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-92246000-2"></script>
+            <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-92246000-2');
+            </script>
+            
+    <title>OXPROT</title>
+    <link rel="stylesheet" type="text/css" href="slides.css">
+  </head>
+  <body>
+<br>
+<br>
+    <p style="text-align:center;font-family:Sans-Serif; color:Black; font-size: 40px;"><b>Defining novel potential therapeutic targets in melanoma immunobiology using a combined proteome-immunopeptidome mass-spectrometry based analysis</b></p>
+<br>
+<br>
+<div class="slider">
+  <figure>
+    <div class="slide">
+      <p></p>
+        <img src="Img01.jpg" alt="">
+    </div>
+    <div class="slide">
+        <p></p>
+        <img src="Img02.jpg" alt="">
+    </div>
+    <div class="slide">
+        <p></p>
+        <img src="Img03.jpg" alt="">
+    </div>
+    <div class="slide">
+        <p></p>
+        <img src="Img04.jpg" alt="">
+    </div>
+    <div class="slide">
+        <p></p>
+        <img src="Img05.jpg" alt="">
+    </div>
+   </figure>
+</div>
+<div class="text-slider">
+    <p>oxprot.tk</p>
+</div>
+<div class="project-code">
+  <t1>PN-III-P1-1.1-PD-2019-1242</t1>
+</div>
+<table border=0 align=center>
+<center>
+  <tr align="center">
+   <th></th>
+   <td>
+   <a class="one" href="index.html" target="_parent">SUMMARY</a> 
+   </td>
+   <td>
+   <a class="one" href="team.html" target="_parent">TEAM</a>
+   </td>
+   <td>
+   <a class="one" href="about.html" target="_parent">ABOUT</a>
+   </td>
+   <td>
+   <a class="one" href="dissemination.html" target="_parent">DISSEMINATION</a>
+   </td>
+   <th></th>
+  </tr>
+<table border=0 align=center width=1100 style=font-family:arial;>
+		<tr>
+        <td>
+          &nbsp;<br>&nbsp;
+        </td>
+        <td>
+          &nbsp;<br>&nbsp;
+        </td>
+      </tr>
+      <tr>
+          <td>
+            &nbsp;<br>&nbsp;
+          </td>
+          <td>
+            &nbsp;<br>&nbsp;
+          </td>
+        </tr>
+        <tr>
+            <td>
+              &nbsp;<br>&nbsp;
+            </td>
+            <td>
+              &nbsp;<br>&nbsp;
+            </td>
+          </tr>      
+<tr valign=top>
+			<td>
+        <font size="5"><b>Abstract:</b></font>
+        <br></br>
+		</tr>
+		<tr valign=top>
+			<td align="justify">
+				<font size="4">
+                &nbsp;<br>&nbsp;
+                The identification of numerous antigens of peptide origin on melanoma cells has placed immunotherapy as one of the most encouraging therapeutic alternative to the classical chemotherapies, which proved a low therapeutic response for metastatic melanoma. This has led the foundation of peptide-based immunotherapy, in which cancer vaccines containing one or several antigens are designed to boost the patient immune system for tumor recognition and rejection by clonal expansion of CD8+ cytotoxic T cells.
+                &nbsp;<br>&nbsp;
+                &nbsp;<br>&nbsp;
+                As a result the search for new antigens with a superior immunological response for cancer treatment is one of the long-standing goals in translational research. One of the most encouraging antigens regarding clinical efficacy is tyrosinase, which undergoes unproductive folding in the endoplasmic reticulum (ER) of melanoma cells. This process leads to the selection of misfolded molecules for degradation and antigenic peptide production in the ubiquitin proteasome pathway. 
+                &nbsp;<br>&nbsp;
+                &nbsp;<br>&nbsp;
+                Our previous experiments have revealed that one of the most abundant tyrosinase epitopes presented on the cell surface of melanoma cells YMDGTMSQV (YMD peptide) can be oxidized to both of its Met residues and the oxidized forms results in improved CD8+ T cell activation. Moreover our preliminary results revealed that down regulating the expression level of one out of the four Methionine Sulfoxide Reductases (MSRs) responsible for oxidized Met reduction, results in a similar increased CD8+ T cell recognition suggesting a direct contribution of this enzyme in tumor recognition. Here we would like to address this aspect by analyzing the proteome and HLA-peptidome implications of each of the four intracellular MSRs enzymes (MSRA,MSRB1,MSRB2,MSRB3) using an innovative approach of SILAC (stable isotope labeling by amino acids in cell culture) based chemoproteomic technique. This would open the opportunity to discover novel modified antigens that could show superior immunological responses in immunotherapy.</font>
+			</td>
+    </tr>
+    <tr>
+        <td>
+          &nbsp;<br>&nbsp;
+        </td>
+        <td>
+          &nbsp;<br>&nbsp;
+        </td>
+      </tr>
+      <tr>
+          <td>
+            &nbsp;<br>&nbsp;
+          </td>
+          <td>
+            &nbsp;<br>&nbsp;
+          </td>
+        </tr>
+        <tr>
+            <td>
+              &nbsp;<br>&nbsp;
+            </td>
+            <td>
+              &nbsp;<br>&nbsp;
+            </td>
+          </tr>
+    <tr valign=top>
+        <td align="center">
+            <a href="http://www.biochim.ro" target="_blank"><img border=0 src="IBRA.jpg" align="center"></a>
+            <a href="https://www.uefiscdi.ro/" target="_blank"><img border=0 src="UEFISCDI.jpg" align="center"></a>
+            <a href="http://www.cncs-nrc.ro" target="_blank"><img border=0 src="CNCS.jpg" align="center"></a>
+            <a href="http://www.acad.ro/" target="_blank"><img border=0 src="RA.jpg" align="center"></a>
+      </tr>
+  </table>
+  </body>
+</html>
